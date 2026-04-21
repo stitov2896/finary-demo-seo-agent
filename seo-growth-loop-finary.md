@@ -8,7 +8,7 @@ The system runs on a recurring schedule with human approval gates at critical po
 
 **Product focus:** Finary brokerage accounts — PEA, CTO (Compte-Titres Ordinaire), ETF investing, stock trading, portfolio management.
 
-**Market:** French retail investors (EU tax residents). All content in French.
+**Market:** French retail investors (EU tax residents). 
 
 
 ---
