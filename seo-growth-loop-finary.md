@@ -10,7 +10,6 @@ The system runs on a recurring schedule with human approval gates at critical po
 
 **Market:** French retail investors (EU tax residents). All content in French.
 
-**Competitive context:** XTB is the only active advertiser (290 French Meta ads). Trade Republic dominates organic (171K ETV). BoursoBank and Fortuneo have millions of banking clients but zero bourse advertising. 8 of 18 audience sub-segments are completely unaddressed by any competitor. The organic SEO space in French investment content is wide open for a well-executed strategy.
 
 ---
 
